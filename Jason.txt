@@ -1,0 +1,66 @@
+
+<DOCTYPE! html>
+<meta charset="UTF-8">
+
+<head><title>About (The Jason blog)</title> </head>
+<body bgcolor="green" font color="white">
+
+<h1>
+	<ins>
+ 	<i>About</i>
+	</ins>
+</h1>
+
+
+<p>
+My name is Jason Tikva Owusu-Yeboah. I am twelve years of age. I was born on the 9<sup>th</sup> of September, 2009. I am a Ghanaian. 
+I am left handed.
+<br/>
+I attend Light of the World School complex It is a very good school, and I recommend the school for children from Nursery 1 to JHS 3. It is located at New Aplaku. I was in JHS 1 when I created this website. The website was created on<!--comment goes here-->.
+</p>
+<p>The name of my dad is Mr. Samuel Owusu and Mrs. Nana Abena Ampaben-Kyereme. My mother has her shop which he sells building hardware such as cement, wood, plywood and other stuff. The shop is called Elnato Enterprise located on the Ayigbe town road opposite Elma spot. Her phonr number is <strong><i>0541466326. </i> </strong>
+</p>
+<p>I like football a lot.The team I like most is Manchester City. The players I enjoy watching are Lionel Messi, Rorbet Lewandoski,
+Kylian Mbappe,  
+Mohammed Salah and Kevin de Bruyne. My hobby playing virtual games
+and reading.I have a playstaion 2 and I like reading Christian, discovery and comic books.My favourite local dish is Waakye and for fastfoods it is pizza. 
+The subjects I
+like best are Science and Computing because I wish to purse a career in computer engineering.
+</p>       
+
+<table border="2" align="center"s>
+<tr>
+<td><img src ="Jason.jpg" width="150px"/></td>
+<td><img src ="Jason.jpg" width="150px"/></td>
+<td><img src ="Jason.jpg" width="150px"/></td>
+<td><img src ="Jason.jpg" width="150px"/></td>
+
+</tr>
+
+<tr>
+<td><img src ="Jason.jpg" width="150px"/></td>
+<td><img src ="Jason.jpg" width="150px"/></td>
+<td><img src ="Jason.jpg" width="150px"/></td>
+<td><img src ="Jason.jpg" width="150px"/></td>
+
+</tr>
+
+<tr>
+<td><img src ="Jason.jpg" width="150px"/></td>
+<td><img src ="Jason.jpg" width="150px"/></td>
+<td><img src ="Jason.jpg" width="150px"/></td>
+<td><img src ="Jason.jpg" width="150px"/></td>
+
+</tr>
+
+
+</tr>
+
+</table>
+
+<p>
+<a href="Jasons.html">this is my website</a>
+</p> 
+<font color>
+</body>
+</html>

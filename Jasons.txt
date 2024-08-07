@@ -1,0 +1,251 @@
+
+
+
+
+
+
+<DOCTYPE! html>
+<meta charset="UTF-8">
+<head>
+<link rel="stylesheet" href="Jasons.css">
+
+
+
+	<title>The Paradox blog </title> 
+
+</head>
+	<body>
+		<h1><ins>
+MY FIRST WEBPAGE
+</h1></ins>
+<nav class="navbar">
+	<!--NAVIGATION MENU-->
+<ul class="nav-links">
+<div class="menu">
+
+
+
+
+
+
+	<li><a href="Jason.html" target="_blank">	Home		</a> </li> 
+	<li><a href="#about" class="page-scroll">	About		</a> </h3></li> 
+	<li class"services"><a href="services.html" target="_blank">	Services	</a> </h4> </li>
+	
+	<ul class="dropdown">
+	<li><a href="list.html" target="_blank">	Dropdown 1		</a> </li> 
+	<li><a href="list.html" target="_blank">	Dropdown 2		</a> </li>
+	<li><a href="list.html" target="_blank">	Dropdown 3		</a> </li> 
+	<li><a href="list.html" target="_blank">	Dropdown 4		</a> </li> 
+
+</div>
+</ul>	
+</nav>	
+	<div id="services">
+	
+	
+	
+<br/>
+
+ <p>
+My name is Jason Tikva Owusu-Yeboah. I am a Ghanaian. I was 12 years old at the time I created the blog. I was born on 9<sup>th</sup> September 2009.
+I attend school at Light of the World School Complex. I recommend it for all those who would like to send their wards to school in Ghana.
+The school is from pre-school to grade 9. It is located at New Aplaku,
+near Amalena Plaza. <a href="http://lightoftheworldschoolcomplex.com/" target="_blank">This is the school's website.</a>
+</p> 
+
+
+<p>
+<h1>
+<ins>Appreciation</ins>
+</h1>
+</p>
+<p class="border">
+This blog was created only by the grace of God almighty. But I want to thank Richmond Doughan for teaching on how to use the coding languages HTML
+and CSS, he has also made a website <a href="sir richmond's website">which is on this link</a>. I also thank my father, Samuel Owusu in Brazil.
+ To view my page source,
+click on  a blank space and click on "view page source", that is only if you are using a pc.</p> 
+<p>
+I want to talk about myself. I like moives alot. One category of movies I like is anime. An anime is is any Japanese animation or cartoon. There are
+alot of the anime storylines. Two animes I like alot are briefly explained below; 
+</p>
+
+
+<p>
+<h1>
+<ins>My Hero Academia</ins>
+</h1>
+</p>
+<p>
+<img src="a my hero academia picture">
+The anime talks about a world in which about 80% of the population posses supernatural abilities called quirks. But the main story is about a kid called Izuku
+Midoriya and how he becomes the greatest hero ever. If you are interested,watch it now on <a href="an anime website" target="_blank">this website. </a>
+</p>
+
+<p>
+</p>
+<p>
+<h1>
+<ins>Demon Slayer</ins>
+</h1>
+</p>
+<p>
+<img src="a demon slayer picture.jpg" align="center">
+The anime is about a boy named Tanjiro Kamado whose family was killed by a demon and his only surviving sister was also turned in a demon. After that,he
+swore to avenge them and from that he beame a demon slayer. If you want to watch demon slayer,then this is <a href="an anime website">the link. </a>
+</p>
+<p>
+There are lots of other animes like these. To watch,click on <a href="an anime website" target="_blank">this link. </a>
+</p>
+
+<p>
+There are other catergories like the cw series. <br/><img src="a cw flash picture.jpg" align="center">
+To watch them,this is the<a href="a cw website" target="_blank"> link. </a> But the series that are my favourite are:
+</p>
+
+<p>
+<h1 >
+<ins>The Flash<ins>
+</h1>
+</p>
+<p>
+<img src="a cw flash picture.jpg" align ="center">
+The series is about a man named Barry Allen who was struck by lighting and went into a coma for months. When he woke up,he realized he had the supernatuarl
+the abilty to run superfast. He then uses it to become a hero. To discover more, dash straight to <a href="a cw website">the website</a>
+</p>
+
+<h1 align="center">
+<ins>DC's legends of tommorrow</ins>
+</h1>
+</p>
+<p>
+<img src="a DC's legends of tommorrow.jpg" >
+The series is based on a team of time travelling heroes who always mistakenly destroy time and history but find ways to fix it. To learn more about their wonderful<br/>
+adventures, go to this <a href="a cw website" target="_blank"> go to this link. </a>
+</p>
+<p>
+
+</p>
+<p>
+I watch other full moives on <a href="fz.moives">fz.movies.com. </a>Sometimes I use the <a href="123moives" target="_blank">123moives website</a> because it is cheaper to download moives.
+</p>
+
+<p>
+There are some other things I like. Some are story books. My favourite storybook is "The Diary of a wimpy kid".</p><br/><img src="a diary of a wimpy kid picture.jpg">
+<p align="center">Here is a <a href="a diary of a wimpy kid website" target="_blank">website you can read from. </a></p>
+</p>
+
+<p>
+I also like football alot. I like the <b>English Premier league.</b></p><!--comment goes here--><img src="an EPL picture.jpg" align="center"><br/>
+<p align="center">If you want to feel the excitement of the league,click on this <a href="an EPL website" target="_blank">link now. </a></p>
+</p>
+
+<p>
+Another football legue I enjoy is the <b>UEFA champions league. </b><br/><img src="a champions league picture.jpg" ></p>
+<p align="center">To follow the champions league trend,go the<a href="a UEFA website" target="_blank"> UEFA website now.</a></p>
+
+<p> 
+There are some players I like to see them play. They are:</p>
+<h1 align="center">
+<ins>Lionel Messi</ins>
+</h1><br/><img src="a messi picture.jpg" align="center">
+
+<p align="center">The reason I like is because once he gets the ball,he is in control of it. I also admire his dribbling,passes and goals. To find out more,<a href="a messi website" target="_blank">visit his website now.</a>
+</p>
+
+<h1>
+<ins>Mohammed Salah</ins>
+</h1><br/><img src="a salah picture.jpg" align="center">
+<p >I like he the play because of his speed,dribbling and finshing. Explore his career,go this<a href="a salah website" target="_blank"> website.</a>
+</p>
+
+<h1>
+<ins>Robert Lewandoski</ins>
+</h1><br/><img src="a lewandoski picture.jpg" align="center">
+<p >I am always thrilled to watch him play as the top striker for Bayern Munich FC. To read more about him,to move to this<a href="a lewandoski website" target="_blank"> website.</a>
+</p>
+<p>
+
+<h1>
+<ins>Kevin De Bruyne</ins>
+</h1><br/><img src="a de bruyne picture.jpg" >
+<p >I like him because he is one of the best midfielders I know. He can make long range shoots and passes. To learn more click on this<a href="a de bruyne website" target="_blank"> link.</a>
+</p>
+
+<p >My favourite team is <b>Manchester city.</b><br/></p><img src="a man city picture.jpg"> <br/></p>
+<p>I like them for thier formations,tactics and team work. The players in the team I like are Riyad Mahrez, Phil Foden, Jack Grealish,
+Raheem Sterling, Gabriel Jesus and Kyle Walker. The team is coached by the Spanish coach,Pep Gadilola. 
+To learn more the team,go to this<a href="a man city website" target="_blank"> website.</a>
+</p>
+
+<p>I like anroid games. I download them from <a href="ristechy.com" target="_blank">ristechy.com</a>.You can download games like shadow fight 2, subway surfers, DLS 22, fifa 22, fifa mobile and other cool games
+all both nomral versions and mod. I also download games on the <a href="doplin emulator"target="_blank"> dolpin emulator apk</a> available on andiord version 9.0 onwards.
+</p>
+<p>
+I would like to address that I am planning to make a website for my mother,Nana Abena Ampaben-Kyereme's bussiness. When I am done,I will put the link on this website.
+</p>
+
+<!-- About Section -->
+<div id="about">
+  <div class="container">
+    <div class="row">
+  
+      <div class="col-xs-12 col-md-6">
+        <div class="about-text">
+         
+
+ <p1>My name is Jason Tikva Owusu-Yeboah. I am twelve years of age. I was born on the 9<sup>th</sup> of September, 2009. I am a Ghanaian. I come from Brekum in the Brong-Ahafo region.
+I am left handed.
+<br/>
+</p1>
+<p>The name of my dad is Mr.Samuel Owusu and Mrs. Nana Abena Ampaben-Kyereme. My dad is a research-officer. My mother has her shop which he sells building hardware such as cement, 
+wood, plywood and other stuff. The shop is called Elnato Enterprise located on the Ayigbe town road opposite Elma spot. Her phonr number is <strong><i>0541466326. </i> </strong>
+</p>
+<p>I like football alot.The team I like most is Manchester City. The players I enjoy watching are Lionel Messi, Rorbet Lewandoski,
+Kylian Mbappe,  
+Mohammed Salah and Kevin de Bruyne. My hobby playing virtual games
+and reading.I have a playstaion 2 and I like reading Christian, discovery and comic books.My favourite local dish is Waakye and for fastfoods it is pizza. 
+The subjects I
+like best are Science and Computing because I wish to purse a career in computer engineering.
+</p>       
+
+
+
+
+
+<p>
+<a href="Jasons.html">this is my website</a>
+</p> 
+<font color></p>
+       
+          <div class="list-style">
+            <div class="col-lg-6 col-sm-6 col-xs-12">
+
+
+<p>
+<footer>
+
+	
+<nav>
+<ul>
+</p>
+<p>
+	<li>Call me on +233558252922</li>
+	
+</ul>
+</nav>
+</footer>
+</p>
+
+
+
+
+
+</body>
+</html> 
+
+
+
+
+</body>
+</html> 
